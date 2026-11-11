@@ -1,0 +1,8 @@
+{
+  "name": "Remix Class Champion - Teacher Rating System",
+  "description": "Weekly teacher rating system and leaderboard for classes 7/A, 6/A, 5/A, 4/A, and 3/A with bilingual English and Arabic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
